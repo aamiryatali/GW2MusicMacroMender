@@ -102,13 +102,14 @@ int main(){
 	cin.getline(filename, 100);
 	input.open(filename);
 	if(!input.is_open()){
-  		cout << "Error opening file";
-  		return -1;
+  		cout << "Error opening file. Check the filename and ensure the file is in the same directory as the .exe\n";
+  		system("pause");
+  		exit(1);
 	}
 	
 	sFilename = filename;
 	newFilename = "Fixed " + sFilename;
-	output.open(newFilename);
+	output.open(newFilename.c_str());
 	
 	cout << "\nWould you like to completely remove low notes instead of scaling them up to the middle scale? (y/n)" << endl;
 	cin >> choice;
@@ -142,5 +143,7 @@ int main(){
 	
 	input.close();
 	output.close();
-	return 0;
+	cout << "\nFixed file created as " << newFilename << endl;
+	system("pause");
+	exit(0);
 }
