@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song>
+	<artist>GW2MB</artist>
+	<title>Candyman Theme</title>
+	<user>Big Papa Smurf</user>
+	<instrument>lute</instrument>
+	<tempo>60</tempo>
+	<meter>1/1</meter>
+	<algorithm>favor notes</algorithm>
+	<melody>z3
+[cC] d [eG] d [Ec] z G z C z G z E z [Gc] z 
+[BG,] z G z D z G z A, z G z B, z G z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[Aa] z F z C z F z B, z F z B, z F z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[BG,] z G z D z G z A, z G z B, z G z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[A,c'] z F z C z F z A, z F z [bD] z [Fa] z 
+[gB] z G z E z G z B, z G z [Ef] z [eG] z 
+[Be] z G z D z G z [dD] z G z B, z [Gc] z 
+[A,c'] z F z C z F z A, z F z [bD] z [Fa] z 
+[gB] z G z E z G z B, z G z [Ef] z [eG] z 
+[Be] z G z D z G z [dD] z G z B, z G 
+z3
+[cC] d [eG] d [Ec] z G z C z G z E z [Gc] z 
+[BG,] z G z D z G z A, z G z B, z G z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[Aa] z F z C z F z B, z F z B, z F z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[BG,] z G z D z G z A, z G z B, z G z 
+[cC] d [Ge] d [Ec] z G z C z G z E z [Gc] z 
+[A,c'] z F z C z F z A, z F z [bD] z [Fa] z 
+[gB] z G z E z G z B, z G z [Ef] z [eG] z 
+[Be] z G z D z G z [dD] z G z B, z [Gc] z 
+[A,c'] z F z C z F z A, z F z [bD] z [Fa] z 
+[gB] z G z E z G z B, z G z [Ef] z [eG] z 
+[Be] z G z D z G z [dD] z G z B, z G</melody>
+</song>
